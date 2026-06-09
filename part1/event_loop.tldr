@@ -43,8 +43,50 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 643.5871701435565,
-			"y": 375.35886745790515,
+			"x": -42.70898691623677,
+			"y": -135.6851698353513,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jIyvj8LlLRZ3Gf8ihCCTa",
+			"type": "text",
+			"props": {
+				"color": "yellow",
+				"size": "l",
+				"w": 903.2000122070312,
+				"font": "serif",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Event Loop - asynchronous nature of the Java Script "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aIXd5NuV",
+			"typeName": "shape"
+		},
+		{
+			"x": 458.04213969784837,
+			"y": 352.69689797902686,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -59,7 +101,7 @@
 				"growY": 0,
 				"url": "",
 				"scale": 1,
-				"color": "black",
+				"color": "light-red",
 				"labelColor": "black",
 				"fill": "none",
 				"size": "m",
@@ -68,9 +110,21 @@
 				"verticalAlign": "middle",
 				"richText": {
 					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
 					"content": [
 						{
-							"type": "paragraph"
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "vip queue "
+								}
+							]
 						}
 					]
 				}
@@ -80,16 +134,16 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -190.63776185741017,
-			"y": -122.08066116210915,
-			"z": 0.6640918672323763,
+			"x": 286.32534792056896,
+			"y": 685.6367216828314,
+			"z": 0.28241119565752526,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 40.85330977900543,
+			"y": 28.249628419059178,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -97,8 +151,8 @@
 			"id": "shape:LhxCzH8ntgwyCOju_ZqfE",
 			"type": "geo",
 			"props": {
-				"w": 300.8000183105469,
-				"h": 208.00000762939453,
+				"w": 219.09339875253602,
+				"h": 151.50075079127618,
 				"geo": "rectangle",
 				"dash": "draw",
 				"growY": 0,
@@ -131,8 +185,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 638.7685413288905,
-			"y": 57.029424910294296,
+			"x": 453.22351088318237,
+			"y": 34.367455431416005,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -147,7 +201,7 @@
 				"growY": 0,
 				"url": "",
 				"scale": 1,
-				"color": "black",
+				"color": "light-green",
 				"labelColor": "black",
 				"fill": "none",
 				"size": "m",
@@ -168,6 +222,40 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1022.6505882461978,
+			"y": -46.649536538500485,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-fQIypX9G1L7_wGZ5G3hP",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "violet",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2sYINpV": {
+						"id": "a2sYINpV",
+						"index": "a2sYINpV",
+						"x": -5.305624120926723,
+						"y": 1099.3253623825774
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aEcUz9qd",
+			"typeName": "shape"
+		},
+		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
@@ -183,8 +271,8 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 772.4849624665947,
-			"y": 590.6905441651446,
+			"x": 584.1071182980302,
+			"y": 488.71151941900064,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -225,6 +313,43 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1111.1391702121468,
+			"y": 58.37555465531835,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3KySAO_fvnRhy4rCsKq8e",
+			"type": "geo",
+			"props": {
+				"w": 893.0995802819837,
+				"h": 509.22613016819145,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "serif",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGBxR90V",
+			"typeName": "shape"
+		},
+		{
 			"name": "",
 			"color": "#FF802B",
 			"imageUrl": "",
@@ -233,8 +358,8 @@
 			"typeName": "user"
 		},
 		{
-			"x": 642.3824899629649,
-			"y": 470.526418916757,
+			"x": 456.8374595172568,
+			"y": 447.8644494378787,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -249,7 +374,7 @@
 				"growY": 0,
 				"url": "",
 				"scale": 1,
-				"color": "black",
+				"color": "light-red",
 				"labelColor": "black",
 				"fill": "none",
 				"size": "m",
@@ -270,8 +395,168 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 677.3174339846678,
-			"y": 25.708463988053353,
+			"x": -123.2534599112314,
+			"y": 584.7682198907181,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vuMbI75NqCBkXagl5hv9e",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 657.5541049359382,
+				"font": "serif",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": " Code enters into the call stack ."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": " Event loops finds whether any thing is present in the call stack and exexutes it and if execution is completed then it will remove from the call stack "
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "But some functions cant be run though the event loop"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "now browswer or the evnvironment chooses does have the capable of doing this "
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "now the browswer will complete the work and then the cal back function will come to the que or the vip_queue based upon the requirmwnt of the "
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "and then event loop will execute the function "
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCx1iokV",
+			"typeName": "shape"
+		},
+		{
+			"x": 491.7724035389597,
+			"y": 3.046494509175062,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -312,8 +597,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 425.69142675544015,
-			"y": 23.81830101290261,
+			"x": 240.14639630973204,
+			"y": 1.1563315340243179,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -354,8 +639,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 434.783776372272,
-			"y": 412.7435437332873,
+			"x": 249.23874592656387,
+			"y": 390.081574254409,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -391,8 +676,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 36.79999923706055,
-			"y": 97.60000610351562,
+			"x": -86.66922494593547,
+			"y": 106.77178135019744,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -405,8 +690,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 400.2328547652233,
-			"y": 57.45999286095228,
+			"x": 214.6878243195152,
+			"y": 34.79802338207399,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -421,7 +706,7 @@
 				"growY": 0,
 				"url": "",
 				"scale": 1,
-				"color": "black",
+				"color": "light-blue",
 				"labelColor": "black",
 				"fill": "none",
 				"size": "m",
@@ -442,8 +727,56 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 475.032514025618,
-			"y": 430.0190218790923,
+			"x": 1118.4663000494484,
+			"y": 708.1349997175063,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 0.5,
+			"meta": {},
+			"id": "shape:dPNTUNVpCjd4Vdskv6S32",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 794.25,
+				"font": "serif",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Here also the same things happens once rlelte and see what happens "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aHrcPPOV",
+			"typeName": "shape"
+		},
+		{
+			"x": 289.4874835799099,
+			"y": 407.357052400214,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -510,10 +843,60 @@
 			"typeName": "document"
 		},
 		{
+			"x": 485.2542837286675,
+			"y": 272.3706752266893,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pcLh8YtUR1tikz3jO3cfe",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 130.60000610351562,
+				"font": "serif",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "time fxn "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDyAQDCV",
+			"typeName": "shape"
+		},
+		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
+				"tldraw:font": "serif",
+				"tldraw:color": "yellow",
+				"tldraw:geo": "rectangle",
+				"tldraw:size": "l"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -528,8 +911,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 720,
-				"h": 482.3999938964844
+				"w": 550.4000244140625,
+				"h": 625.6000366210938
 			},
 			"insets": [
 				false,
@@ -558,8 +941,8 @@
 			"typeName": "instance"
 		},
 		{
-			"x": 24.800003051757812,
-			"y": 18.999996185302734,
+			"x": 58.91686239512696,
+			"y": 42.088636022527936,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -573,7 +956,7 @@
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
-				"scale": 1,
+				"scale": 0.7283689674724132,
 				"richText": {
 					"type": "doc",
 					"attrs": {
@@ -597,6 +980,294 @@
 			},
 			"parentId": "shape:RTVJvBrgOV0fgg4HxcKtk",
 			"index": "a2zlJPRl",
+			"typeName": "shape"
+		},
+		{
+			"x": 1130.6003425235467,
+			"y": 75.28077516968989,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kjlDDDx3TyIq7oYg8Y_jh",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 836.2000122070312,
+				"font": "serif",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "console.log(\"Kedareswar\");"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "hardBreak",
+									"attrs": {
+										"dir": "auto"
+									},
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "function NewFunc() { "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "  console.log(\"Hi i will come after you see the browser\");"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "}"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "hardBreak",
+									"attrs": {
+										"dir": "auto"
+									},
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									]
+								},
+								{
+									"type": "hardBreak",
+									"attrs": {
+										"dir": "auto"
+									},
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "setTimeout(() => {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "  NewFunc()"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "}, 5000);"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "for (let index = 0; index < 11; index++) {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "  console.log(index);"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "code"
+										}
+									],
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aFB2FToV",
 			"typeName": "shape"
 		}
 	]
