@@ -1,0 +1,1 @@
+I am kedareswar writtent this content by using the writeFileSync  I am adding the data throgh appendFileSync
