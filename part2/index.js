@@ -23,7 +23,7 @@ const newFile = fs.writeFileSync(
 
 fs.appendFileSync(
   "copy.txt",
-  "\nI am adding the data throgh appendFileSync",
+  "\n I am adding the data throgh appendFileSync",
   "utf-8",
 );
 
